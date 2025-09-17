@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-GerkenPickleFarm designs and produces 3D models and manages cryptocurrency operations. [Check out the repo here](https://github.com/GerkPickle/TestFarm)
+Testing Account
 
 <!--
 **GerkPickle/GerkPickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
